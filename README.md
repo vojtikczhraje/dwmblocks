@@ -11,7 +11,7 @@ added and removed by editing the config.h file.
 This is build of dwmblocks is based on Luke's [go check it out](https://github.com/LukeSmithxyz/dwmblocks)
 
 # scripts
-I have added my personal scripts that i used [go check them out](https://github.com/vojtikczhraje/dwmblocks/tree/main/scripts). You can simply add scripts to dwmblocks just by addingthem to config.h and then recompiling dwmblocks. 
+I have added my personal scripts that i used. You can check them [here](https://github.com/vojtikczhraje/dwmblocks/tree/main/scripts). You can simply add scripts to dwmblocks just by addingthem to config.h and then recompiling dwmblocks. 
 
 
 # Signaling changes
