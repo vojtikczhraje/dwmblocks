@@ -1,5 +1,5 @@
 # important
-Script to add to your .zshrc/.bashrc 
+Script to add to your .zshrc/.bashrc <br />> 
 ```export PATH="$HOME/.local/bin:$PATH"```
 
 # dwmblocks
