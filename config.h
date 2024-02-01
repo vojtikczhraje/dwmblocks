@@ -1,13 +1,13 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
-	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
-	/* {"⌨", "sb-kbselect", 0, 30}, */
-    {"",        "~/.local/bin/cpu_usage.sh",           5,                     0},
-    {"",        "~/.local/bin/ram_usage.sh",           5,                     0},
-	{"",        "~/.local/bin/time.sh",                  60,                    0},
-	{"",        "~/.local/bin/date.sh",                  60,                    0},
-
+    /*Icon*/    /*Command*/              /*Update Interval*/  /*Update Signal*/
+    /* {"⌨", "sb-kbselect", 0, 30}, */
+    {"",        "cpu_usage.sh",           5,                  0},
+    {"",        "ram_usage.sh",           5,                  0},
+    {"",        "time.sh",                60,                 0},
+    {"",        "date.sh",                60,                 0},
 };
+
 
 //Sets delimiter between status commands. NULL character ('\0') means no delimiter.
 static char *delim = " ";
