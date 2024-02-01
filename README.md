@@ -1,3 +1,7 @@
+# important
+Script to add to your .zshrc/.bashrc 
+```export PATH="$HOME/.local/bin:$PATH"```
+
 # dwmblocks
 
 Modular status bar for dwm written in c.
