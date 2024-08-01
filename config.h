@@ -6,7 +6,9 @@ static const Block blocks[] = {
     {"",        "ram_usage.sh",           5,                  0},
     {"",        "time.sh",                60,                 0},
     {"",        "date.sh",                60,                 0},
+    {"",        "battery.sh",                60,                 0},
 };
+
 
 
 //Sets delimiter between status commands. NULL character ('\0') means no delimiter.
