@@ -1,6 +1,8 @@
 # Requirements
 To display battery status acpi package is required so install it with:
-```sudo pacman -S acpi```
+```
+sudo pacman -S acpi
+```
 
 # important
 Script to add to your .zshrc/.bashrc <br />> 
